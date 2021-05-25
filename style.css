@@ -1,0 +1,20 @@
+body
+{
+background-color: plum;
+color: aqua;
+}
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
+.name_of_member,#result_object_accuracy,#result_object_name
+{
+    color: palegreen;
+}
+#camera,#result
+{
+width: 350px;
+height: 300px;
+border: 2px dashed black;
+}
